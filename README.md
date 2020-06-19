@@ -3,6 +3,8 @@
 You can use hand gesture to control the camera application.
 The gestures I implemented are zoom in/out, timer 3s/5s, resume/pause, switching to record/camera, capture.
 
+You can watch demo in demo.mp4 file!
+
 ## To run
 What you need to have two phones and a desktop. Since streaming and camera application was not implemented in a application I had to use two phones instead of one. It can be upgraded soon. But now we need 2 phones and a desktop.
 
